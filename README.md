@@ -6,7 +6,7 @@
 
 ## Description
 
-A web app that allows a user input the length of all 3 sides of a triangle and returns whether the triangle is a equilateral, isosceles or scalene triangle.
+A web app that allows a user input the length of all 3 sides of a triangle and returns whether the triangle is a equilateral, isosceles or scalene triangle. Check it out at: http://micahcourey.github.io/TriangleTracker 
 
 ## Setup
 
